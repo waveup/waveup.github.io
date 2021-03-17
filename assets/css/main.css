@@ -1438,6 +1438,7 @@ a.back-to-top:hover, a.back-to-top:focus {
 .blog-item .blog-image {
   width: 100%;
   max-width: 370px;
+  max-height:500px ;
   position: relative;
   overflow: hidden;
 }
